@@ -3,6 +3,6 @@
   "description": "This is the entrepreneurial dream of three college students.",
   "image": "https://tva1.sinaimg.cn/large/e6c9d24egy1h4i0gxwbwmj20r20r0go7.jpg",
   "external_link": "baidu.com",
-  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
-  "fee_recipient": "0x2Bfb7fD07459764Dd98FeC880349e86756694739" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x2Bfb7fD07459764Dd98FeC880349e86756694739"
 }
